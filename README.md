@@ -1,1 +1,1 @@
-# CodeClauseInternship_speed_type_test
+speed_type_test
